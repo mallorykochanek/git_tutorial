@@ -1,2 +1,3 @@
-print("Hello World Main!")
-print("Hello World my branch!")
+print("Hello World both!")
+
+print("Foo and Bar")
