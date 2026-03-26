@@ -1,3 +1,3 @@
-print("Hello World Main!")
+print("Hello World both!")
 
 print("Spam and Eggs!")
